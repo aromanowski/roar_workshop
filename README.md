@@ -1,6 +1,8 @@
 # roar_workshop
 Robust Open Analysis in R
 
-** useful README file **
+Useful README file
 
-# Cool data
+this is markdown
+
+# Cool data to follow
